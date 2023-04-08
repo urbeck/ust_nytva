@@ -1,7 +1,9 @@
+# нужно написать код не менее десяти строк, 
+# в каждой строке должна быть ошибка
 prent('Hello, eto programma')
 for i range("dva"):
   print"azazaza")
-b = int(input("введи своё имя"))
+b = input(int("введи своё имя"))
 pirnt('Привет, ", b)
 s = spicok()
 a = int(inpt())
